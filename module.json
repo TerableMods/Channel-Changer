@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Channel Changer",
+    "author": "TerableMods",
+    "description": "Change channels using a chat command",
+    "options": {
+        "niceName": "Channel Changer",
+        "guiName": "Channel Changer"
+    },
+    "servers": ["https://raw.githubusercontent.com/TerableMods/Channel-Changer/master/"],
+  	"supportUrl": "https://github.com/TerableMods/Channel-Changer/issues"
+}
